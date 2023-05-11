@@ -43,3 +43,4 @@ tictactoe.py
 
 extra
 Rule based inference - inference.py
+svm.py
